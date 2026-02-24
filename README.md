@@ -99,7 +99,7 @@ graph TB
 **1. 克隆项目**
 
 ```bash
-git clone https://github.com/your-username/axiom-mes.git
+git clone https://github.com/Amanda-Gill/AxiomMES.git
 cd axiom-mes
 ```
 
