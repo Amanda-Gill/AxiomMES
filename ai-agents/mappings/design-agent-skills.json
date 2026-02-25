@@ -1,0 +1,60 @@
+{
+  "description": "设计类代理与设计类技能的映射关系",
+  "version": "1.2",
+  "agents": {
+    "ui-designer": {
+      "skills": [
+        "skills/design/ui-design-principles.md",
+        "skills/design/brand-guideline.md",
+        "skills/design/prototyping.md",
+        "skills/common/documentation.md",
+        "skills/common/communication.md",
+        "C:/Users/Aiden/.agents/skills/canvas-design/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/ui-ux-pro-max/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/web-design-guidelines/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/audit-website/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/enhance-prompt/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/theme-factory/SKILL.md"
+      ]
+    },
+    "ux-researcher": {
+      "skills": [
+        "skills/design/ux-research-methods.md",
+        "skills/product/requirement-analysis.md",
+        "skills/common/documentation.md",
+        "skills/common/critical-thinking.md",
+        "C:/Users/Aiden/.agents/skills/enhance-prompt/SKILL.md"
+      ]
+    },
+    "brand-guardian": {
+      "skills": [
+        "skills/design/brand-guideline.md",
+        "skills/design/ui-design-principles.md",
+        "skills/common/communication.md",
+        "skills/common/documentation.md",
+        "C:/Users/Aiden/.agents/skills/brand-guidelines/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/theme-factory/SKILL.md"
+      ]
+    },
+    "visual-storyteller": {
+      "skills": [
+        "skills/design/prototyping.md",
+        "skills/design/brand-guideline.md",
+        "skills/marketing/content-writing.md",
+        "skills/common/communication.md",
+        "C:/Users/Aiden/.agents/skills/remotion-best-practices/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/slack-gif-creator/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/algorithmic-art/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/theme-factory/SKILL.md"
+      ]
+    },
+    "whimsy-injector": {
+      "skills": [
+        "skills/design/ui-design-principles.md",
+        "skills/design/prototyping.md",
+        "skills/common/communication.md",
+        "C:/Users/Aiden/.agents/skills/algorithmic-art/SKILL.md"
+      ]
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "description": "营销类代理与营销类技能的映射关系",
+  "version": "1.2",
+  "agents": {
+    "tiktok-strategist": {
+      "skills": [
+        "skills/marketing/content-writing.md",
+        "skills/marketing/social-media-strategy.md",
+        "skills/marketing/user-growth-analysis.md",
+        "skills/common/communication.md",
+        "skills/common/documentation.md"
+      ]
+    },
+    "instagram-curator": {
+      "skills": [
+        "skills/marketing/content-writing.md",
+        "skills/marketing/social-media-strategy.md",
+        "skills/design/brand-guideline.md",
+        "skills/common/communication.md"
+      ]
+    },
+    "twitter-engager": {
+      "skills": [
+        "skills/marketing/content-writing.md",
+        "skills/marketing/social-media-strategy.md",
+        "skills/common/communication.md"
+      ]
+    },
+    "reddit-community-builder": {
+      "skills": [
+        "skills/marketing/content-writing.md",
+        "skills/marketing/social-media-strategy.md",
+        "skills/common/communication.md",
+        "skills/common/critical-thinking.md"
+      ]
+    },
+    "app-store-optimizer": {
+      "skills": [
+        "skills/marketing/content-writing.md",
+        "skills/marketing/seo-optimization.md",
+        "skills/marketing/user-growth-analysis.md",
+        "skills/common/documentation.md",
+        "C:/Users/Aiden/.agents/skills/audit-website/SKILL.md"
+      ]
+    },
+    "content-creator": {
+      "skills": [
+        "skills/marketing/content-writing.md",
+        "skills/marketing/seo-optimization.md",
+        "skills/design/brand-guideline.md",
+        "skills/common/communication.md",
+        "skills/common/documentation.md",
+        "C:/Users/Aiden/.agents/skills/internal-comms/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/writing-skills/SKILL.md"
+      ]
+    },
+    "growth-hacker": {
+      "skills": [
+        "skills/marketing/user-growth-analysis.md",
+        "skills/marketing/social-media-strategy.md",
+        "skills/marketing/seo-optimization.md",
+        "skills/product/market-research.md",
+        "skills/common/problem-solving.md",
+        "skills/common/critical-thinking.md",
+        "C:/Users/Aiden/.agents/skills/audit-website/SKILL.md"
+      ]
+    }
+  }
+}

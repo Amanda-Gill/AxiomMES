@@ -1,0 +1,34 @@
+{
+  "description": "产品类代理与产品类技能的映射关系",
+  "version": "1.2",
+  "agents": {
+    "trend-researcher": {
+      "skills": [
+        "skills/product/market-research.md",
+        "skills/common/documentation.md",
+        "skills/common/critical-thinking.md",
+        "C:/Users/Aiden/.agents/skills/brainstorming/SKILL.md"
+      ]
+    },
+    "feedback-synthesizer": {
+      "skills": [
+        "skills/product/requirement-analysis.md",
+        "skills/product/user-story-writing.md",
+        "skills/common/communication.md",
+        "skills/common/documentation.md",
+        "C:/Users/Aiden/.agents/skills/remembering-conversations/SKILL.md"
+      ]
+    },
+    "sprint-prioritizer": {
+      "skills": [
+        "skills/product/sprint-planning.md",
+        "skills/product/requirement-analysis.md",
+        "skills/product/user-story-writing.md",
+        "skills/common/communication.md",
+        "skills/common/critical-thinking.md",
+        "C:/Users/Aiden/.agents/skills/writing-plans/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/executing-plans/SKILL.md"
+      ]
+    }
+  }
+}

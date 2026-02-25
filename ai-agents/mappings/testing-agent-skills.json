@@ -1,0 +1,65 @@
+{
+  "description": "测试类代理与测试技能的映射关系",
+  "version": "1.2",
+  "agents": {
+    "api-tester": {
+      "skills": [
+        "skills/technical/testing/api-testing.md",
+        "C:/Users/Aiden/.agents/skills/playwright-cli/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/systematic-debugging/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/agent-browser/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/before-and-after/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/test-driven-development/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/verification-before-completion/SKILL.md"
+      ]
+    },
+    "performance-benchmarker": {
+      "skills": [
+        "skills/technical/testing/performance-testing.md",
+        "C:/Users/Aiden/.agents/skills/systematic-debugging/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/test-driven-development/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/verification-before-completion/SKILL.md"
+      ]
+    },
+    "test-results-analyzer": {
+      "skills": [
+        "skills/technical/testing/unit-testing.md",
+        "C:/Users/Aiden/.agents/skills/systematic-debugging/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/test-driven-development/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/verification-before-completion/SKILL.md"
+      ]
+    },
+    "workflow-optimizer": {
+      "skills": [
+        "skills/technical/testing/api-testing.md",
+        "skills/technical/testing/unit-testing.md",
+        "skills/technical/testing/performance-testing.md",
+        "skills/common/documentation.md",
+        "skills/common/problem-solving.md",
+        "skills/common/communication.md",
+        "skills/common/critical-thinking.md",
+        "C:/Users/Aiden/.agents/skills/writing-plans/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/systematic-debugging/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/brainstorming/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/test-driven-development/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/verification-before-completion/SKILL.md"
+      ]
+    },
+    "tool-evaluator": {
+      "skills": [
+        "skills/technical/testing/api-testing.md",
+        "skills/technical/testing/unit-testing.md",
+        "skills/technical/testing/performance-testing.md",
+        "skills/common/documentation.md",
+        "skills/common/critical-thinking.md",
+        "skills/common/communication.md",
+        "C:/Users/Aiden/.agents/skills/systematic-debugging/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/playwright-cli/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/webapp-testing/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/agent-browser/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/test-driven-development/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/verification-before-completion/SKILL.md"
+      ]
+    }
+  }
+}

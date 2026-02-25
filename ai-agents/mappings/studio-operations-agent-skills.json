@@ -1,0 +1,57 @@
+{
+  "description": "工作室运营类代理与办公/运维/合规技能的映射关系",
+  "version": "1.0",
+  "agents": {
+    "analytics-reporter": {
+      "skills": [
+        "skills/common/documentation.md",
+        "skills/common/communication.md",
+        "skills/common/critical-thinking.md",
+        "C:/Users/Aiden/.agents/skills/xlsx/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/docx/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/internal-comms/SKILL.md"
+      ]
+    },
+    "finance-tracker": {
+      "skills": [
+        "skills/common/documentation.md",
+        "skills/common/communication.md",
+        "skills/common/problem-solving.md",
+        "skills/common/critical-thinking.md",
+        "C:/Users/Aiden/.agents/skills/xlsx/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/docx/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/internal-comms/SKILL.md"
+      ]
+    },
+    "infrastructure-maintainer": {
+      "skills": [
+        "skills/technical/devops/docker-containerization.md",
+        "skills/technical/devops/ci-cd-automation.md",
+        "skills/technical/devops/cloud-deployment.md",
+        "skills/technical/testing/api-testing.md",
+        "skills/common/documentation.md",
+        "skills/common/problem-solving.md",
+        "C:/Users/Aiden/.agents/skills/systematic-debugging/SKILL.md"
+      ]
+    },
+    "legal-compliance-checker": {
+      "skills": [
+        "skills/common/documentation.md",
+        "skills/common/communication.md",
+        "skills/common/critical-thinking.md",
+        "C:/Users/Aiden/.agents/skills/docx/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/doc-coauthoring/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/writing-clearly-and-concisely/SKILL.md"
+      ]
+    },
+    "support-responder": {
+      "skills": [
+        "skills/common/communication.md",
+        "skills/common/documentation.md",
+        "skills/common/problem-solving.md",
+        "C:/Users/Aiden/.agents/skills/internal-comms/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/writing-clearly-and-concisely/SKILL.md"
+      ]
+    }
+  }
+}

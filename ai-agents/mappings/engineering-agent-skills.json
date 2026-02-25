@@ -1,0 +1,110 @@
+{
+  "description": "工程类代理与技术类技能的映射关系",
+  "version": "1.2",
+  "agents": {
+    "frontend-developer": {
+      "skills": [
+        "skills/technical/coding/javascript-coding.md",
+        "skills/technical/coding/html-css-coding.md",
+        "skills/technical/coding/api-development.md",
+        "skills/technical/testing/unit-testing.md",
+        "skills/common/documentation.md",
+        "skills/common/problem-solving.md",
+        "C:/Users/Aiden/.agents/skills/react-components/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/shadcn-ui/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/next-best-practices/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/next-cache-components/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/frontend-design/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/vercel-composition-patterns/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/vercel-react-best-practices/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/webapp-testing/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/finding-duplicate-functions/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/json-render-core/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/json-render-react/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/receiving-code-review/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/requesting-code-review/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/test-driven-development/SKILL.md"
+      ]
+    },
+    "backend-architect": {
+      "skills": [
+        "skills/technical/coding/python-coding.md",
+        "skills/technical/coding/api-development.md",
+        "skills/technical/devops/docker-containerization.md",
+        "skills/technical/devops/cloud-deployment.md",
+        "skills/technical/testing/api-testing.md",
+        "skills/common/documentation.md",
+        "skills/common/critical-thinking.md",
+        "C:/Users/Aiden/.agents/skills/fastapi-best-practices/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/supabase-postgres-best-practices/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/python-sdk/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/python-executor/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/agent-tools/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/finding-duplicate-functions/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/receiving-code-review/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/requesting-code-review/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/test-driven-development/SKILL.md"
+      ]
+    },
+    "mobile-app-builder": {
+      "skills": [
+        "skills/technical/coding/javascript-coding.md",
+        "skills/technical/coding/html-css-coding.md",
+        "skills/technical/coding/api-development.md",
+        "skills/technical/testing/unit-testing.md",
+        "skills/common/documentation.md",
+        "C:/Users/Aiden/.agents/skills/vercel-react-native-skills/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/receiving-code-review/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/requesting-code-review/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/test-driven-development/SKILL.md"
+      ]
+    },
+    "ai-engineer": {
+      "skills": [
+        "skills/technical/coding/python-coding.md",
+        "skills/technical/coding/api-development.md",
+        "skills/technical/testing/unit-testing.md",
+        "skills/technical/testing/performance-testing.md",
+        "skills/common/documentation.md",
+        "skills/common/critical-thinking.md",
+        "C:/Users/Aiden/.agents/skills/mcp-builder/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/subagent-driven-development/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/python-sdk/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/agent-tools/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/dispatching-parallel-agents/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/finding-duplicate-functions/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/receiving-code-review/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/requesting-code-review/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/test-driven-development/SKILL.md"
+      ]
+    },
+    "devops-automator": {
+      "skills": [
+        "skills/technical/devops/docker-containerization.md",
+        "skills/technical/devops/ci-cd-automation.md",
+        "skills/technical/devops/cloud-deployment.md",
+        "skills/technical/testing/api-testing.md",
+        "skills/common/documentation.md",
+        "skills/common/problem-solving.md",
+        "C:/Users/Aiden/.agents/skills/autoship/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/using-git-worktrees/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/finishing-a-development-branch/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/dispatching-parallel-agents/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/verification-before-completion/SKILL.md"
+      ]
+    },
+    "rapid-prototyper": {
+      "skills": [
+        "skills/technical/coding/javascript-coding.md",
+        "skills/technical/coding/html-css-coding.md",
+        "skills/technical/coding/api-development.md",
+        "skills/design/prototyping.md",
+        "skills/common/communication.md",
+        "skills/common/documentation.md",
+        "C:/Users/Aiden/.agents/skills/web-artifacts-builder/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/json-render-core/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/json-render-react/SKILL.md"
+      ]
+    }
+  }
+}

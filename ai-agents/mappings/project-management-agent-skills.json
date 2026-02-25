@@ -1,0 +1,43 @@
+{
+  "description": "项目管理类代理与办公技能的映射关系",
+  "version": "1.1",
+  "agents": {
+    "studio-producer": {
+      "skills": [
+        "skills/common/communication.md",
+        "skills/common/documentation.md",
+        "C:/Users/Aiden/.agents/skills/docx/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/pptx/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/pdf/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/xlsx/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/doc-coauthoring/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/dispatching-parallel-agents/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/find-skills/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/remembering-conversations/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/skill-creator/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/writing-skills/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/using-superpowers/SKILL.md"
+      ]
+    },
+    "project-shipper": {
+      "skills": [
+        "skills/common/communication.md",
+        "skills/common/problem-solving.md",
+        "C:/Users/Aiden/.agents/skills/writing-plans/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/before-and-after/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/dispatching-parallel-agents/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/executing-plans/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/requesting-code-review/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/verification-before-completion/SKILL.md"
+      ]
+    },
+    "experiment-tracker": {
+      "skills": [
+        "skills/common/critical-thinking.md",
+        "skills/common/documentation.md",
+        "C:/Users/Aiden/.agents/skills/xlsx/SKILL.md",
+        "C:/Users/Aiden/.agents/skills/executing-plans/SKILL.md"
+      ]
+    }
+  }
+}
